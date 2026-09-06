@@ -1,0 +1,6 @@
+{
+  "name": "No Code vs Low Code vs High Code Guide",
+  "description": "An interactive guide and comparison of software development approaches: No Code, Low Code, and High Code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
